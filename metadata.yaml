@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '38302'
     url: http://www.gutenberg.org/2009/agents/38302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36491#The-Toy-Shop--1735--The-King-and-the-Miller-of-Mansfield--1737-
 gutenberg_issued: '2011-06-21'
 gutenberg_type: Text
 identifiers:
