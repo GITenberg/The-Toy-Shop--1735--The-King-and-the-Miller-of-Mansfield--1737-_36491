@@ -1,0 +1,36 @@
+_repo: The-Toy-Shop--1735--The-King-and-the-Miller-of-Mansfield--1737-_36491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dodsley, Robert
+    aliases:
+    - Saddi, Nathan ben
+    - Dodsley, R. (Robert)
+    birthdate: 1703
+    deathdate: 1764
+    gutenberg_agent_id: '26524'
+    url: http://www.gutenberg.org/2009/agents/26524
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
+  editor:
+    agent_name: Solomon, Harry M.
+    gutenberg_agent_id: '38302'
+    url: http://www.gutenberg.org/2009/agents/38302
+description: ''
+gutenberg_issued: '2011-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36491'
+  lccn: '84124836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Publication Number 218-219
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 18th century'
+title: The Toy Shop (1735) The King and the Miller of Mansfield (1737)
+url: http://www.gutenberg.org/ebooks/36491
